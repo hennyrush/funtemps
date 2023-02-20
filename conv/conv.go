@@ -32,4 +32,4 @@ func FahrenheitToKelvin(value float64) float64 {
     return math.Round(kelvin*100) / 100
 }
 
-// De andre konverteringsfunksjonene implementere her
+// De andre konverteringsfunksjonene implementere her her

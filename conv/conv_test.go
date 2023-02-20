@@ -72,3 +72,4 @@ func TestFarhenheitToCelsius(t *testing.T) {
 }
 
 // De andre testfunksjonene implementeres her
+// 
