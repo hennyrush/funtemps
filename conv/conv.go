@@ -33,4 +33,3 @@ func FahrenheitToKelvin(value float64) float64 {
 }
 
 // De andre konverteringsfunksjonene implementere her
-// ...
